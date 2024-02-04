@@ -1,0 +1,270 @@
+
+
+nav img{
+    height: 40px;
+    width: 200px;
+    margin-left: 40px;
+}
+nav{
+    display: flex;
+    gap: 800px;
+}
+a{
+    padding: 10px;
+    font-size: larger;
+    text-decoration: none;
+}
+.build{
+    background-image: url(14696.jpg);
+    height: 800px;
+    display: grid;
+}
+.dream{
+    font-weight: 900;
+    font-size: 50px;
+    text-align: center;
+    margin-top: 30%;
+    color: white;
+    
+}
+.dream:hover{
+    color: brown;
+}
+.first{
+    text-align: center;
+    color: blue;
+}
+.first h2{
+   color: black;
+   font-family: poppins;
+   text-transform: uppercase;
+   font-size: 3rem;
+   text-align: center;
+}
+h2 span{
+    -webkit-text-stroke: 1px black;
+    color: transparent;
+    padding: 5px;
+    margin-left: -20px;
+    
+
+}
+h2 span:hover{
+    color: skyblue;
+}
+h2 span:has(~span:hover) {
+    color: skyblue;
+}
+button{
+    padding:    15px;
+    color: white;
+    background-color: black;
+    border-radius: 150px;
+
+}
+.box{
+    display: grid;
+    grid-template-columns: 650px 650px;
+    
+}
+.fourth img{
+    width: 550px;
+    height: 300px;
+}
+.fourth{
+    background-color: rgb(175, 201, 169);
+    font-size: 18px;
+    padding: 22px;
+    margin-left: 50px;                                                                              
+    margin-right: 10px;
+    border-radius: 20px;
+    margin-bottom: 15px;
+}
+.fourth li{
+    display: flex;
+}
+.find{
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding-top: 30px;
+    color:rgb(138, 58, 58) ;
+}
+.fifth{
+    background-color: rgb(175, 201, 169);
+    font-size: 18px;
+    padding: 22px;
+    margin-right: 50px;
+    margin-left: 10px;
+    border-radius: 20px;
+    margin-bottom: 15px;
+}
+.fifth img{
+    width: 550px;
+    height: 300px;
+}
+.fifth li{
+    display: flex;
+}
+.third{
+    background-image: url(DIAMOND-3-BEDROOM-SEMI-DETACHED-BUNGALOW.png);
+}
+i{
+    padding: 8px;
+}
+button:hover{
+    color: black;
+    background-color: white;
+}
+.fourth:hover{
+    background-color: rgb(182, 121, 121);
+}
+.fifth:hover{
+    background-color: rgb(182, 121, 121);
+}
+.text{
+    text-align: center;
+}
+.text h3{
+    color: rgb(165, 163, 42);
+    font-size: 30px;
+    padding-top: 50px;
+}
+.text p{
+    font-size: 40px;
+    font-family: serif;
+    margin-top: 10px;
+    color:   rgb(109, 160, 96);
+}
+.sixth{
+    display: grid;
+    grid-template-columns: 450px 450px 450px ;
+    height: 500px;
+    color: white;
+    font-size: 20px;
+    margin-top: 10%;
+}
+.tenth{
+    background-image: url(23453.jpg);
+    background-repeat: no-repeat;
+}
+.seventh{
+    padding: 50px;
+    margin: 20px;
+    margin-right: 30px;
+}
+.eight{
+    padding: 50px;
+    margin: 20px;
+    margin-right: 30px;
+}
+.ninth{
+    padding: 50px;
+    margin: 20px;
+    margin-right: 30px;
+}
+.sponsors{
+    display: flex;
+    gap: 160px;
+    padding: 30px;
+    margin-top: 20px;
+    background: linear-gradient(to right, white, white, rgb(110, 178, 241));
+}
+.sec{
+    text-align: center;
+}
+.sec h2{
+    color: brown;
+    font-size: 40px;
+    font-weight: 1000;
+    font-style: italic;
+    padding-top: 30px;
+}
+.eleventh{
+    text-align: center;
+}
+.twelve{
+    text-align: center;
+}
+.twelve img{
+    height: 200px;
+}
+.thirteen{
+    text-align: center;
+}
+.thirteen img{
+    height: 200px;
+}
+.fourteen{
+    text-align: center;
+}
+.fourteen img{
+    height: 200px;
+}
+.fifteen{
+    text-align: center;
+}
+.fifteen img{
+    height: 200px;
+}
+.sixteenth{
+    display: flex;
+    gap:    10px;
+    padding: 30px;
+}
+h1{
+    color: brown;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.partners h2{
+    text-align: center;
+    color: brown;
+    font-size: 30px;
+    text-decoration: underline;
+}
+.cmb img{
+    padding-left: 42%;
+    height: 250px;
+ 
+}
+.cmb h3{
+    font-size: x-large;
+    font-weight: 200;
+}
+.emb img{
+    padding-left: 42%;
+    height: 250px;
+}
+.emb h3{
+    font-size: x-large;
+    font-weight: 200;
+}
+.union img{
+    padding-left: 42%;
+    height: 250px;
+}
+.about{
+    background: linear-gradient( white, skyblue, rgb(40, 235, 40));
+}
+.seventh:hover{
+    color:  rgb(165, 163, 42);
+}
+.eight:hover{
+    color:  rgb(109, 160, 96);
+}
+.ninth:hover{
+    color:  rgb(165, 163, 42);
+
+}
+
+
+
+
+
+
+
+
+
+
+
